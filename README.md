@@ -2,7 +2,7 @@
 📌 **This repository contains my learning projects and problem solutions in various programming languages. Each folder corresponds to a different language, which makes it convenient to navigate through the materials. Here you will find algorithm implementations, study assignments, and small projects created during the learning process.**
 
 ## 🗂 Repository structure  
-- [Java](/Java/) – Java solution ☕
+- [Java](/Java/) – Java solutions ☕
 - [C++](/C++/) – C++ solutions ➕➕  
 - [C](/C/) – C solutions ©️  
 - [Python](/Python/) – Python solutions 🐍
