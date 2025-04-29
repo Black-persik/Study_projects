@@ -1,4 +1,4 @@
-//Ivan Vasilev CSE-01
+//Ivan Vasilev 
 import java.util.*;
 public class FrequencyAnalysis {
     public static void main(String[] args) {
