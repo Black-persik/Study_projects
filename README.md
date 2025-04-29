@@ -12,10 +12,8 @@
 1. Navigate to the desired language folder. 
 2. Find the task by name (for example, `twoSum.java`). 
 3. Open the file and see the solution.
-4. Initial tasks are available for each solution in every README.md file.
-```
-нужно добавить какой-нибудь ресурс в котором хранились бы задания
-```
+4. Initial tasks are available for each solution in every `README.md` file.
+
 ## 🔗 Tasks  
 Tasks were taken from   
 - [LeetCode](https://leetcode.com/) 
