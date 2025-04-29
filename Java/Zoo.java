@@ -3,12 +3,11 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-//TODO help me
 /**
  * This class is a Main class that implement simulation among animals
  * @author Ivan Vasilev
  */
-public class Main {
+public class Zoo {
     /**{@value} the maximum number of days*/
     public static final int MAX_NUMBER_OF_DAYS = 30;
     /**{@value} the minimum number of days*/
