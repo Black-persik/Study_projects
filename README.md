@@ -12,10 +12,12 @@
 2. Find the task by name (for example, `twoSum.java`). 
 3. Open the file and see the solution.
 4. Initial tasks are available for each solution.
-
+```
+нужно добавить какой-нибудь ресурс в котором хранились бы задания
+```
 ## 🔗 Tasks  
 Tasks were taken from   
-- [LeetCode](https://leetcode.com/)  
+- [LeetCode](https://leetcode.com/) 
 - [Codeforces](https://codeforces.com/)  
 - [HackerRank](https://www.hackerrank.com/)  
 
