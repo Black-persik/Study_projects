@@ -1,4 +1,4 @@
-//IvanVasilev B24-CSE-01
+//IvanVasilev 
 #include <iostream>
 #include <vector>
 #include <algorithm>
