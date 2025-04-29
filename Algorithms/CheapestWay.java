@@ -1,4 +1,4 @@
-//Ivan Vasilev B24-CSE-01
+//Ivan Vasilev 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
