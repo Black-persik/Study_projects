@@ -1,4 +1,4 @@
-// Ivan Vasilev B24-CSE-01
+// Ivan Vasilev 
 import java.util.Scanner;
 public class ShutingYard2 {
     public static void main(String[] args) {
