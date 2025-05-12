@@ -4,6 +4,6 @@
 Each task includes:  
 
 ### 1. Shuting Yard Algorithm
-- **Code**: [Shuting Yard.java](./ShutingYard.java)  
-- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) 
+- **Code**: [Diamond Problmem in C++.cpp](./DiamondProblem.cpp)  
+- **Task PDF**: [Download](./DimondProblem.pdf) 
 
