@@ -16,37 +16,37 @@ Each task includes:
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
   
-- ### 4. Shedule problem
+### 4. Shedule problem
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*  
 
-- ### 5. Garbage collector
+### 5. Garbage collector
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 6. Frequency analysis
+### 6. Frequency analysis
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 7. Distance from origin
+### 7. Distance from origin
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 8. Connected components of graph
+### 8. Connected components of graph
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 9. The cheapest way in graph
+### 9. The cheapest way in graph
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 10. Anonymous alphabet
+### 10. Anonymous alphabet
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
-- - ### 11. AVL tree
+### 11. AVL tree
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
-- **Task PDF**: [Download](Algorithms/Tasks/AVLtree.pdf) *(Upload your PDF here)* 
+- **Task PDF**: [Download](./Tasks/AVLtree.pdf) *(Upload your PDF here)* 
 ---
 
 ## 🚀 **How to Use**
