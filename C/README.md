@@ -4,8 +4,8 @@
 
 
 ### 1. Based sum on C
-- **Code**: [Based sum.c](./based_sum.c)  
-- **Task PDF**: [Download](./Tasks/based_sum.pdf) 
+- **Code**: [Based sum.c](./C/based_sum.c)  
+- **Task PDF**: [Download](./Tasks/based_sum.pdf)
 ---
 
  ### 2. Moodle replacement
