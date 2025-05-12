@@ -3,23 +3,50 @@
 
 ## 📋 **List of Algorithms**
 Each task includes:  
-- **Solution code** (Python/C++/etc.)  
-- **Task PDF** (problem statement, examples, constraints)  
 
 ### 1. Shuting Yard Algorithm
 - **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*  
 
-### 2. Dijkstra's Algorithm
-- **Code**: [dijkstra.py](./Dijkstra_algorithm/dijkstra.py)  
-- **Task PDF**: [Download](./Dijkstra_algorithm/Task_Description.pdf) *(Upload your PDF here)*  
+### 2. Shuting Yard Algorithm 2
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*   
 
-### 3. QuickSort
-- **Code**: [quicksort.py](./QuickSort/quicksort.py)  
-- **Task PDF**: [Download](./QuickSort/Task_Description.pdf) *(Upload your PDF here)*  
+### 3. Sorting by frequency
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+  
+- ### 4. Shedule problem
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*  
 
-*(Add more sections below...)*  
+- ### 5. Garbage collector
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
 
+- - ### 6. Frequency analysis
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+
+- - ### 7. Distance from origin
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+
+- - ### 8. Connected components of graph
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+
+- - ### 9. The cheapest way in graph
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+
+- - ### 10. Anonymous alphabet
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*
+
+- - ### 11. AVL tree
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
+- **Task PDF**: [Download](Algorithms/Tasks/AVLtree.pdf) *(Upload your PDF here)* 
 ---
 
 ## 🚀 **How to Use**
