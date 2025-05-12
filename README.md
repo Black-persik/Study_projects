@@ -16,9 +16,8 @@
 
 ## 🔗 Tasks  
 Tasks were taken from   
-- [LeetCode](https://leetcode.com/) 
 - [Codeforces](https://codeforces.com/)  
-- [HackerRank](https://www.hackerrank.com/)  
+
 
 ## 📬 Contact Me 
 Feel free to reach out for discussions or feedback: 
