@@ -1,6 +1,6 @@
 ---
 ## 📋 **List of tasks**
-### 1. Based sum on C
+ ### 1. Based sum on C
 - **Code**: [Based sum.c](./based_sum.c)  
 - **Task PDF**: [Download](./Tasks/based_sum.pdf)
 ---
