@@ -1,6 +1,6 @@
 ---
 
-## 📋 **List of Algorithms**
+## 📋 **List of tasks**
 Each task includes:  
 
 ### 1. Shuting Yard Algorithm
