@@ -13,7 +13,7 @@ Each task includes:
 - **Task PDF**: [Download](./Tasks/ShutingYard2.pdf) *(Upload your PDF here)*   
 
 ### 3. Sorting by frequency
-- **Code**: [Shuting Yard.java](.SortByFrequency.cpp)  
+- **Code**: [Shuting Yard.java](./SortByFrequency.cpp)  
 - **Task PDF**: [Download](./Tasks/sortingByFrequency.pdf) *(Upload your PDF here)*
   
 ### 4. Shedule problem
