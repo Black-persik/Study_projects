@@ -8,7 +8,7 @@ Each task includes:
 
 ### 1. Binary Search
 - **Code**: [binary_search.py](./Binary_search/binary_search.py)  
-- **Task PDF**: [Download](./Algorithm/ShutingYard.pdf) *(Upload your PDF here)*  
+- **Task PDF**: [Download](./Algorithms/ShutingYard1.pdf) *(Upload your PDF here)*  
 
 ### 2. Dijkstra's Algorithm
 - **Code**: [dijkstra.py](./Dijkstra_algorithm/dijkstra.py)  
