@@ -9,7 +9,7 @@ Each task includes:
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*  
 
 ### 2. Shuting Yard Algorithm 2
-- **Code**: [Shuting Yard.java](.ShutingYard2.java)  
+- **Code**: [Shuting Yard.java](./ShutingYard2.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard2.pdf) *(Upload your PDF here)*   
 
 ### 3. Sorting by frequency
@@ -45,7 +45,7 @@ Each task includes:
 - **Task PDF**: [Download](./Tasks/anonAlphabet.pdff) *(Upload your PDF here)*
 
 ### 11. AVL tree
-- **Code**: [Shuting Yard.java](.Algorithms/AVLTree.java)  
+- **Code**: [Shuting Yard.java](./Algorithms/AVLTree.java)  
 - **Task PDF**: [Download](./Tasks/AVLtree.pdf) *(Upload your PDF here)* 
 ---
 
