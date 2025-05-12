@@ -7,7 +7,7 @@ Each task includes:
 - **Task PDF** (problem statement, examples, constraints)  
 
 ### 1. Shuting Yard Algorithm
-- **Code**: [binary_search.py](./ShutingYard.java)  
+- **Code**: [Shuting Yard.java](./ShutingYard.java)  
 - **Task PDF**: [Download](./Tasks/ShutingYard1.pdf) *(Upload your PDF here)*  
 
 ### 2. Dijkstra's Algorithm
